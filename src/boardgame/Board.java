@@ -59,5 +59,4 @@ public class Board {
 		}
 		return piece(position) != null;
 	}
-	
 }
